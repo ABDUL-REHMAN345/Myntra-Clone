@@ -66,7 +66,7 @@ header{
     background-color: #f5f5f6;
     flex-grow: 1;
     height: 40px;
-    weight: 10px;
+    /* weight: 10px; */
     border: 0;
     border-radius: 0 4px 4px 0;
 }
